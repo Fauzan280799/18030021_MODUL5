@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">18030021 MODUL5</string>
+    <string name="prompt_email">Your Email</string>
+    <string name="prompt_password">Your Password</string>
+    <string name="action_sign_in_short">Sign In Short</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="error_field_required">Error Field Required</string>
+    <string name="error_invalid_password">Error Invalid Password</string>
+    <string name="error_invalid_email">Error Invalid Email</string>
+</resources>
